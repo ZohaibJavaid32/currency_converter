@@ -1,3 +1,38 @@
+# 💱 Currency Converter App
+
+A modern **Streamlit web application** to convert currencies in real-time using live exchange rates.
+
+---
+
+## 🚀 Live Demo
+
+👉 https://huggingface.co/spaces/your-username/your-app-name
+
+---
+
+##  Features
+
+- 🔄 Real-time currency conversion
+- 🌍 Multiple currencies supported
+- 🔁 Swap currencies instantly
+- 📜 Conversion history tracking
+- ⚡ Fast performance with caching
+- 🎯 Clean and user-friendly UI
+
+---
+
+##  Tech Stack
+
+- **Python**
+- **Streamlit**
+- **Requests (API Integration)**
+- Exchange Rate API
+
+---
+
+##  Project Structure
+
+
 ---
 title: CurrencyConverter
 emoji: 💻
