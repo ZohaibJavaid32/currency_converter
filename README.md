@@ -8,6 +8,7 @@ A modern **Streamlit web application** to convert currencies in real-time using 
 👉 https://huggingface.co/spaces/your-username/your-app-name
 
 
+
 ##  Features
 
 - 🔄 Real-time currency conversion
@@ -26,13 +27,6 @@ A modern **Streamlit web application** to convert currencies in real-time using 
 - Exchange Rate API
 
 
-##  Project Structure
-
-currency-converter/
-│
-├── app.py # Main Streamlit application
-├── requirements.txt # Dependencies
-└── README.md # Project documentation
 
 ---
 title: CurrencyConverter
