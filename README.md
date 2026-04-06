@@ -2,15 +2,13 @@
 
 A modern **Streamlit web application** to convert currencies in real-time using live exchange rates.
 
----
 
-## 🚀 Live Demo
+### 🚀 Live Demo
 
 👉 https://huggingface.co/spaces/your-username/your-app-name
 
----
 
-##  Features
+###  Features
 
 - 🔄 Real-time currency conversion
 - 🌍 Multiple currencies supported
@@ -19,19 +17,22 @@ A modern **Streamlit web application** to convert currencies in real-time using 
 - ⚡ Fast performance with caching
 - 🎯 Clean and user-friendly UI
 
----
 
-##  Tech Stack
+###  Tech Stack
 
 - **Python**
 - **Streamlit**
 - **Requests (API Integration)**
 - Exchange Rate API
 
----
 
-##  Project Structure
+###  Project Structure
 
+currency-converter/
+│
+├── app.py # Main Streamlit application
+├── requirements.txt # Dependencies
+└── README.md # Project documentation
 
 ---
 title: CurrencyConverter
