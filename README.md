@@ -1,3 +1,15 @@
+---
+title: CurrencyConverter
+emoji: 💻
+colorFrom: green
+colorTo: indigo
+sdk: streamlit
+sdk_version: 1.56.0
+app_file: app.py
+pinned: false
+license: mit
+---
+
 # 💱 Currency Converter App
 
 A modern **Streamlit web application** to convert currencies in real-time using live exchange rates.
@@ -25,20 +37,6 @@ A modern **Streamlit web application** to convert currencies in real-time using 
 - **Streamlit**
 - **Requests (API Integration)**
 - Exchange Rate API
-
-
-
----
-title: CurrencyConverter
-emoji: 💻
-colorFrom: green
-colorTo: indigo
-sdk: streamlit
-sdk_version: 1.56.0
-app_file: app.py
-pinned: false
-license: mit
----
 
 
 
